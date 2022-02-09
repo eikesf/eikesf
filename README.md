@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/eikesf">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eikesf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikesf&layout=compact&langs_count=16&theme=github_dark"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=eikesf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="540em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikesf&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,5 +26,5 @@
   <a href="https://www.youtube.com/channel/UCcqfV-ou2J8gsw2I_I5iKrQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eike.franco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eikefranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ eike-scudellari-franco-1a251014a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eike-scudellari-franco-1a251014a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
