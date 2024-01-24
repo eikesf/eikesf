@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Eike Scudellari Franco
 - 🌱 Estou atualmente estudando inteligência artificial e ciência de dados.
 - 👯 Quero participar de projetos em ciência de dados para desenvolver meu conhecimento na área
-- ⚡ Fun fact: sou um apaixonado por perfumes e tenho um canal no youtube sobre isso 😀
 
 <div>
   <a href="https://github.com/eikesf">
