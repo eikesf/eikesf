@@ -1,6 +1,9 @@
-### Olá! Eu sou o Eike Scudellari Franco
-- 🌱 Estou atualmente estudando inteligência artificial e ciência de dados.
-- 👯 Quero participar de projetos em ciência de dados para desenvolver meu conhecimento na área
+### Hi there! I'm Eike Scudellari Franco
+
+Experienced Data Analyst focused on extracting insights, now dedicated to building the data infrastructure that makes those analyses possible at scale.
+
+- 🎯 My current focus is to deepen my knowledge in **Data Engineering**, creating ETL/ELT pipelines and exploring cloud solution architectures.
+- 💡 Actively seeking challenges to design, build, and optimize data flows in cloud environments, primarily with **AWS**.
 
 <div>
   <a href="https://github.com/eikesf">
