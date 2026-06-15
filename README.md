@@ -1,7 +1,7 @@
 # Eike Scudellari Franco
 **Data Engineer | Distributed Processing & Analytics Engineering | Data Architectures | Data Modeling**
 
-Data Engineer with 4+ years of experience specialized in building scalable data architectures, optimizing query performance, and implementing robust ETL/ELT pipelines. Proven track record of modernizing legacy data platforms into high-performance systems, significantly reducing operational costs and pipeline latencies.
+Data Engineer with 3+ years of experience specialized in building scalable data architectures, optimizing query performance, and implementing robust ETL/ELT pipelines. Proven track record of modernizing legacy data platforms into high-performance systems, significantly reducing operational costs and pipeline latencies.
 
 ---
 
