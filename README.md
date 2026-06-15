@@ -1,31 +1,56 @@
-### Hi there! I'm Eike Scudellari Franco
+# Eike Scudellari Franco
+**Data Engineer | Distributed Processing & Analytics Engineering | Data Architectures | Data Modeling**
 
-Experienced Data Analyst focused on extracting insights, now dedicated to building the data infrastructure that makes those analyses possible at scale.
+Data Engineer with 4+ years of experience specialized in building scalable data architectures, optimizing query performance, and implementing robust ETL/ELT pipelines. Proven track record of modernizing legacy data platforms into high-performance systems, significantly reducing operational costs and pipeline latencies.
 
-- 🎯 My current focus is to deepen my knowledge in **Data Engineering**, creating ETL/ELT pipelines and exploring cloud solution architectures.
-- 💡 Actively seeking challenges to design, build, and optimize data flows in cloud environments, primarily with **AWS**.
+---
 
-<div>
-  <a href="https://github.com/eikesf">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=eikesf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="190em" width="440em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikesf&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
+### Core Tech Stack
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="Eike-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="center" alt="Eike-Jupyter" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-   <img align="center" alt="Eike-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="center" alt="Eike-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-   <img align="center" alt="Eike-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-   <img align="center" alt="Eike-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-   <img align="center" alt="Eike-TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-</div>
+* **Languages & Processing:** Python, PySpark, SQL (PostgreSQL), NoSQL (MongoDB)
+* **Data Platform & Storage:** Delta Lake, ClickHouse, Dimensional Modeling (Star Schema)
+* **Orchestration & DevOps:** Apache Airflow, Prefect, dbt, Docker, GitHub Actions, Pytest
 
-##
-  
+---
+
+### Current Focus & Continuous Learning
+
+* **Cloud Infrastructure:** Deepening practical knowledge in the AWS data ecosystem.
+* **Data Engineering Platforms:** Exploring Databricks for pipeline development, Delta Lake optimization, and managed Spark orchestration.
+
+---
+
+### Featured Production-Grade Projects
+
+#### Stock Market Data Pipeline (https://github.com/eikesf/stock-market-pipeline)
+An end-to-end distributed data pipeline designed to ingest, process, and store high-volume financial data.
+* **Architecture:** Built with PySpark and Delta Lake for ACID transactions and efficient state management.
+* **Storage & Analytics:** Optimized for analytical queries using ClickHouse as an OLAP datastore.
+* **Orchestration & CI/CD:** Scheduled via Apache Airflow containerized in Docker, featuring unit tests with Pytest and automated validation via GitHub Actions.
+
+#### E-Commerce Analytics Platform (https://github.com/eikesf/ecommerce-analytics-platform)
+A data platform built to centralize and model relational e-commerce data for analytical consumption.
+* **Orchestration & Ingestion:** Leveraged Prefect to build resilient, event-driven data workflows.
+* **Transformation:** Implemented modular transformation layers using dbt on top of PostgreSQL, applying software engineering best practices (testing, documentation, and version control).
+* **Environment:** Fully containerized using Docker to ensure full reproducibility and continuous integration.
+
+---
+
+### GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eikesf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eikesf&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
+
+---
+
+### Connect with me
+
+<p align="left">
 <div> 
-  <a href="https://www.youtube.com/channel/UCcqfV-ou2J8gsw2I_I5iKrQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/eike.franco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eikefranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eikefranco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eike-scudellari-franco-1a251014a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  </a>
+</p>
